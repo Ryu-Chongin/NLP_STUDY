@@ -6,6 +6,8 @@
           
 
 [소스코드 출처 및 참고 SITE]
+
 bert_naver_movie_project1.ipynb 소스코드 출처 : http://aidev.co.kr/chatbotdeeplearning/8709
+
 [영어]FRIENDS_PROJECT_V1.ipynb 소스코드 출처 : https://github.com/jiwonny/nlp_emotion_classification
 
