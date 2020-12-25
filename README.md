@@ -1,7 +1,9 @@
 # NLP_STUDY
 
-실행방법 : 1. Google Colab 순서대로 실행. 
-          2. kaggle competition test data는 google drive를 이용하여 colab에 mount하여 실행함.
+[실행방법] 
+1. Google Colab 순서대로 실행. 
+
+2. kaggle competition test data는 google drive를 이용하여 colab에 mount하여 실행함.
           
           
 
